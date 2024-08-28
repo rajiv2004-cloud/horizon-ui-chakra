@@ -50,7 +50,7 @@ const routes = [
     component: <DataTables />,
   },
   {
-    name: 'Profile',
+    name: 'Profile',//test
     layout: '/admin',
     path: '/profile',
     icon: <Icon as={MdPerson} width="20px" height="20px" color="inherit" />,
